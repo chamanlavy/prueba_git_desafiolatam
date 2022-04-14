@@ -1,0 +1,95 @@
+/* Versión hecha por Carlos Chaman 
+código hexadecimal "Big data para noobs" #A4452C
+
+# is an id selector, used to target a single specific element with a unique id, but . is a class selector used to target multiple elements with a particular class. To put it another way:
+
+*/
+body{
+    text-align: center;
+    font-family: "Open Sans";
+}
+
+/* Navbar */
+
+.icono{
+    height: 20px;
+    width: 20px;
+    filter: invert(100%);
+}
+
+nav{
+    color: white;
+    text-align: left;
+    padding: 10px 120px;
+    }
+
+nav li{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 60px;
+}
+
+nav li a{
+    color:white;
+    text-decoration: none;
+    text-align: right; 
+}
+
+/* Hero section */
+
+header {
+    text-align: right;
+    background-image: url("../img/bg-hero.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 100px;
+    text-shadow: 0px 3px 6px #000000;
+}
+
+header h1 {
+    font-size: 40px;
+    font-weight: 900;
+}
+header h2 {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.oscuro{
+    background-color: #000000;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.img{
+    padding: 50px;
+}
+
+#Ubicacion p{
+    font-size: 25px;
+    margin: 50px;
+}
+
+.sweet-brown{
+    background: #a4452c;
+}
+
+#proxima-charla{
+    padding: 100px;
+    color: white;
+}
+
+#proxima-charla img{
+    height: 200px;
+}
+
+.contacto{
+    text-align: center;
+    color:white;
+}
+
+#eventos{
+    display: flex; 
+    flex-direction: row;
+  }
