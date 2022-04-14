@@ -1,0 +1,64 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+}
+
+form {
+background-color:#28A745;
+}
+
+.submit {
+    color:#F8F9FA;
+    place-items: center;
+    }
+
+.logo_menu {
+    height: 25px;
+    weight: 100px;
+    }
+
+.logo_footer {
+    height: 24px;
+    weight: 82px;
+    }
+
+/* Etiquetas H1 al h6 */
+h1 {
+    margin: 40px 0px 40px 0px;
+    color:#F8F9FA;
+    font-size: 21;
+    text-align: center;
+    }    
+
+#precio_gris{
+    color:#707070;
+    font-size: 16pt;
+    font-style: light;
+    }    
+
+#precio_verde{
+    color:#28A745;
+    font-size: 20pt;
+    font-style: medium;
+}    
+    
+
+.form-group {
+    margin:0px 40px 0px 40px;
+} 
+
+footer {
+    margin:5%;
+    align-items: center;
+    text-align: center;
+    }
+
+.boton_centrado {
+    display: flex;
+    justify-content: center;
+}
+
+#barra_precios{
+    text-align: left;
+}

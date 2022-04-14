@@ -1,0 +1,92 @@
+body {
+  margin: 0px;
+  font-family: 'Open Sans',
+  sans-serif;
+}
+
+nav {
+  margin: 0px;
+  background-color: #E83E8C;
+  text-align: right;
+}
+
+.img-responsive {
+  top: 12px;
+  left: 40px;
+  width: 132px;
+  height: 53px;
+}
+
+.container {
+  font: Regular 16px/22px Open Sans;
+  letter-spacing: 0;
+}
+
+.container text-center my-5 p-5 {
+  margin: 0px;
+  text-align: center;
+}
+
+h2 {
+  margin: 0px;
+  top: 139px;
+  left: 345px;
+  text-align: center;  
+  color: #707070;
+  font: bold 60px/82px Open Sans;
+}
+
+.card {
+  margin: 0px;
+  color: #212529;
+  border: 1px solid #DDDDDD;
+  text-align: left;
+}
+
+.card-body {
+  font: Regular 16px/24px Open Sans;
+  letter-spacing: 0;
+}
+
+h5 {
+  text-align: left;
+  font: Bold 17px/23px Open Sans;
+  letter-spacing: 0;
+  color: #373A3C;
+  opacity: 1;
+}
+
+.list-group list-group-flush {
+  background: #FFFFFF;
+  border: 1px solid #DDDDDD;
+  text-align: left !important;
+}
+
+#container-icons {
+  padding-top: 50px;
+  padding-left: 120px;
+  padding-right: 120px;
+  margin: 0px;
+  height: 170px;
+  background: #17A2B8;
+  text-align: left;
+  font: Open Sans;
+  color: #FFFFFF;  
+}
+
+h3 {
+  font: bold 40px/55px Open Sans;
+  text-align: left;
+}
+
+#footer-copyright {
+  margin: 0px;
+  height: 184px;
+  background: #E83E8C;
+}
+
+#logo-footer {
+  margin-top: 30px;
+  width: 53px;
+  height: 100px;
+}
